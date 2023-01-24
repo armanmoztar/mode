@@ -1,4 +1,4 @@
-# Mode - nwHacks 2023
+# Mode - nwHacks 2023 (Verbwire Sponsor Winner)
 
 ![Intro](./START.png)
 
